@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.activeColorNavBar{
+  color: #16ADD2 !important;
+}
+.canhGiua{
+  text-align: center;
+}
